@@ -1,12 +1,12 @@
 {
-    "name": "maltekuhr/laravel-gpt",
+    "name": "ediazaro/laravel-gpt",
     "description": "Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications.",
     "keywords": [
         "laravel",
         "openai",
         "gpt"
     ],
-    "homepage": "https://github.com/maltekuhr/laravel-gpt",
+    "homepage": "https://github.com/ediazaro/laravel-gpt",
     "license": "MIT",
     "type": "library",
     "authors": [
